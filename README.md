@@ -7,4 +7,4 @@
 ##### ayarlar kisiminda tekrar giris yapmak icin tum degerleri sifirla butonu vardir, ona basildigi zaman basla butonu aktif olur.
 ##### ayarlar kisiminda hiz ayarini degistirebilirsiniz. hiz ayari ne kadar az olursa (en az 1 olabilir) zar atma islemi daha hizli olur.
 
-###Herkese iyi calismalar dilerim.
+### Herkese iyi calismalar dilerim.
